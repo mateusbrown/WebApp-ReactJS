@@ -1,0 +1,40 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.btn-secundary {
+  color: #000;
+  background-color: #FF0000;
+  border-color: #B22222;
+}
+
+table {
+  font-family: Arial, sans-serif;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f8f8f8;
+  padding: 5px;
+}
+
+td {
+  border: 1px solid;
+  padding: 5px;
+}
+
+label {
+  display: block;
+}
